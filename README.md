@@ -168,7 +168,7 @@ Through this project, I gained practical experience in:
 1. Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/K-KARTHIKRAJA/AI-Spam-Message-Detector.git
 ```
 
 2. Open the `.ipynb` notebook in Google Colab or Jupyter Notebook.
